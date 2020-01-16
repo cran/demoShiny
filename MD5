@@ -1,0 +1,17 @@
+173ff5ffb3ab72d668ac11fea428b214 *DESCRIPTION
+76395a66c8d30ce82ca45ae2183739ea *NAMESPACE
+d89feb964933b803aea8a3eacdf8b240 *R/demoShiny.R
+4f6114862edf97c9c71f4e0195168b77 *README.md
+e409fa6484a873e7cfa82b17139d98b8 *build/vignette.rds
+b0bd01bcac9c56ed490e2e925170a6ae *inst/doc/demoShiny.R
+bc04b6cbb5c95d3d149c83ed88cad898 *inst/doc/demoShiny.Rmd
+2f7d6e2fa6b49e414d28d387429acb37 *inst/doc/demoShiny.html
+3a65a8fd2ae56ebf3a88de5446abed65 *inst/shiny/correlation/app.R
+a9336e2827a10d7fccf1e004880604b5 *inst/shiny/dbscan/BANK2.sav
+fa13135fc86dc3e3210bc4b5e4cd1da5 *inst/shiny/dbscan/app.R
+3299ecc180c75575ce9da94cf318041e *inst/shiny/hist.R
+ad47e499cfdda3ca643ee1f9a30e2f15 *inst/shiny/hist/app.R
+7f40428360b4f35a2dc5aa62fa2aa70d *inst/shiny/scagnostics/app.R
+2576d5f3047b59010fca8e7d9a31c751 *inst/shiny/silhouette/app.R
+e9baef79501f9093f5c249e187be08d5 *man/demoShiny.Rd
+bc04b6cbb5c95d3d149c83ed88cad898 *vignettes/demoShiny.Rmd
